@@ -1,0 +1,13 @@
+ibm-watson-machine-learning
+ibm-cloud-sdk-core
+pandas
+numpy
+scikit-learn
+flask
+flask-cors
+requests
+python-dotenv
+jupyter
+notebook
+matplotlib
+seaborn
